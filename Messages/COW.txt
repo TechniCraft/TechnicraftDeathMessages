@@ -1,1 +1,1 @@
-Hrace %player% zadupalo splasene stado krav.
+### Hrace %player% udupadlo splasene stado krav.
