@@ -1,0 +1,2 @@
+### Jedna z Witherovych hlav trefila hrace %player%.
+### Hrac %player% byl zabit Witherem.

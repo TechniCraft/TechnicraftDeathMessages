@@ -1,0 +1,2 @@
+### Hraci %player% vybouchlo TNT do obliceje.
+### Hrac %player% by mel davat vetsi pozor pri praci s vybusninami!

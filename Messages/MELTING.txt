@@ -1,0 +1,2 @@
+### Hrac %player% byl roztaven.
+### Hrac %player% spadl do Smeltery.
